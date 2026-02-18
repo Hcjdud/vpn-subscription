@@ -1,7 +1,3 @@
-# 🔷 PlasVPN - АВТОМАТИЧЕСКАЯ ПОДПИСКА 🔷
-# Серверы обновляются ежедневно автоматически
-# Выберите любую ссылку ниже:
-
 https://raw.githubusercontent.com/sarinaesmailzadeh/V2ray-Config/main/merged_v2ray.txt
 https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
