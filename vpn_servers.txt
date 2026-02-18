@@ -1,64 +1,37 @@
-# 🌎 АМЕРИКА
-# 🔒 НАСТРОЙКИ СКРЫТЫ - ИСПОЛЬЗУЙТЕ ПО УМОЛЧАНИЮ
-vless://04dd5782-5e3b-43b4-b36c-e2331574ef0c@138.124.180.5:4443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=github.com&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&fp=chrome#🇺🇸%20США%20(Нью-Йорк)
-vless://9c42819a-67a6-4742-9c6d-64900ba62160@38.180.82.119:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=samsung.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&fp=chrome#🇺🇸%20США%20(Чикаго)
-vless://40ecece1-edd9-4543-99c7-529ee594135d@38.247.3.248:443?type=tcp&security=reality&sni=apple.com&pbk=6EHNPzcEE2WdKQg7fsx4scOL3YLED1BiU6KRc_AGJxE&sid=1eb6b72a&fp=chrome#🇺🇸%20США%20(Вашингтон)
-vless://2ae0936e-6533-4ac2-bcc4-0ddbaa433490@158.62.198.132:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=apple.com&pbk=BaTi5Wrua_Oo_CMJ-uQ6UWtDId9z9IhzoOvRe2qvBhQ&sid=63d80d5199a2bc&fp=firefox#🇺🇸%20США%20(Даллас)
+# 🔷 PlasVPN - ТОП-15 ЛУЧШИХ СЕРВЕРОВ 🔷
 
-# 🌍 ЕВРОПА
-# 🔒 НАСТРОЙКИ СКРЫТЫ - ИСПОЛЬЗУЙТЕ ПО УМОЛЧАНИЮ
+# 🇺🇸 США
+vless://04dd5782-5e3b-43b4-b36c-e2331574ef0c@138.124.180.5:4443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=github.com&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&fp=chrome#🇺🇸%20США
+vless://9c42819a-67a6-4742-9c6d-64900ba62160@38.180.82.119:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=samsung.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&fp=chrome#🇺🇸%20США
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.113.56:443?type=ws&security=tls&sni=ll.kpcloud.eu.org&ws-path=/?ed=2048#🇺🇸%20США
 
-## 🇳🇱 Нидерланды
-vless://3cceef33-56ff-4f21-8479-2e1719e04886@62.84.100.225:4443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=github.com&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&fp=chrome#🇳🇱%20Нидерланды%20(Амстердам)
-vless://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&fp=chrome#🇳🇱%20Нидерланды%20(Амстердам%202)
+# 🇳🇱 Нидерланды
+vless://3cceef33-56ff-4f21-8479-2e1719e04886@62.84.100.225:4443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=github.com&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&fp=chrome#🇳🇱%20Нидерланды
+vless://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&fp=chrome#🇳🇱%20Нидерланды
 
-## 🇩🇪 Германия
-vless://65c4cd17-f05e-4759-bac2-8a447282a584@159.195.68.211:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=fastsync.xyz&pbk=muLYnqGdHhl_0kk555yqwJym0yMNS6yXNUYzlvhidF4&sid=c912b13091f9e50d&fp=chrome#🇩🇪%20Германия%20(Нюрнберг)
-vless://57.129.77.179@57.129.77.179:443?type=tcp&security=reality&sni=🔒%20[By%20EbraSha]&pbk=L_tbYn1GzbG3VS0OJcEFHFoYkh-jCK-iyzJVGLzoB30&fp=chrome#🇩🇪%20Германия%20(Франкфурт)
+# 🇩🇪 Германия
+vless://65c4cd17-f05e-4759-bac2-8a447282a584@159.195.68.211:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=fastsync.xyz&pbk=muLYnqGdHhl_0kk555yqwJym0yMNS6yXNUYzlvhidF4&sid=c912b13091f9e50d&fp=chrome#🇩🇪%20Германия
 
-## 🇬🇧 Великобритания
-vless://98256f2f-1a3e-4db8-ad9b-d553b6894d50@79.72.90.132:3366?type=grpc&security=reality&sni=addons.mozilla.org&pbk=jLPhroYnK4b3DmS7uijt_tgIy3I3uZPCG--eoIjwREw&sid=63d28495&fp=random&serviceName=grpc#🇬🇧%20Великобритания%20(Лондон)
+# 🇫🇷 Франция
+vless://7976475d-f898-4f61-82db-b1a22a996b48@216.106.189.166:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&fp=chrome#🇫🇷%20Франция
 
-## 🇫🇷 Франция
-vless://7976475d-f898-4f61-82db-b1a22a996b48@216.106.189.166:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&fp=chrome#🇫🇷%20Франция%20(Париж)
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.133.61:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&fp=chrome#🇫🇷%20Франция%20(Париж%202)
+# 🇬🇧 Великобритания
+vless://98256f2f-1a3e-4db8-ad9b-d553b6894d50@79.72.90.132:3366?type=grpc&security=reality&sni=addons.mozilla.org&pbk=jLPhroYnK4b3DmS7uijt_tgIy3I3uZPCG--eoIjwREw&sid=63d28495&fp=random&serviceName=grpc#🇬🇧%20Великобритания
 
-## 🇦🇹 Австрия
-vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&sid=42d7234d875308a2&fp=chrome#🇦🇹%20Австрия%20(Вена)
+# 🇦🇹 Австрия
+vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&sid=42d7234d875308a2&fp=chrome#🇦🇹%20Австрия
 
-## 🇫🇮 Финляндия
-vless://cc235335-34f0-4f1b-b3e3-5f32e2eeaa89@87.121.82.104:443?type=tcp&security=reality&sni=monolithgate.xyz&pbk=ITIzx2eH_sAZQKrUAShHHl_WS7fc7tUuPWbE6vEDbmo&sid=b7&fp=chrome#🇫🇮%20Финляндия%20(Хельсинки)
+# 🇫🇮 Финляндия
+vless://cc235335-34f0-4f1b-b3e3-5f32e2eeaa89@87.121.82.104:443?type=tcp&security=reality&sni=monolithgate.xyz&pbk=ITIzx2eH_sAZQKrUAShHHl_WS7fc7tUuPWbE6vEDbmo&sid=b7&fp=chrome#🇫🇮%20Финляндия
 
-## 🇪🇸 Испания
-vless://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&fp=chrome#🇪🇸%20Испания%20(Мадрид)
+# 🇹🇷 Турция
+vless://c7c1ecce-0055-4ec8-b1db-4ebd9861ee33@5.180.45.176:4443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=github.com&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&fp=chrome#🇹🇷%20Турция
 
-## 🇮🇹 Италия
-vless://2052dcaf-8cdc-4b82-9b77-7d148b101dc0@37.202.205.117:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&fp=chrome#🇮🇹%20Италия%20(Милан)
+# 🇯🇵 Япония
+vless://a11ab9c5-4155-430b-9efc-7a7122531382@142.91.106.176:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=japan.geodema.network&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇯🇵%20Япония
 
-## 🇸🇪 Швеция
-vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@62.60.150.128:8085?type=tcp&security=reality&sni=stackoverflow.com&pbk=OIYG0kOVwCLP_Zkw_-uKRwX0jCcJkZxMADpTML4n0yU&sid=9b1a0779152db496&fp=firefox#🇸🇪%20Швеция%20(Стокгольм)
+# 🇰🇿 Казахстан
+vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@194.110.55.21:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&fp=chrome#🇰🇿%20Казахстан
 
-## 🇱🇻 Латвия
-vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yahoo.com&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&sid=4360e536&fp=chrome#🇱🇻%20Латвия%20(Рига)
-
-## 🇲🇩 Молдова
-vless://2cd7f3f9-a5fc-4509-8c1b-3cfd67191cdd@91.229.239.51:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=UcXxe5DhOXmvSidTApgFLPIR6RM9aVGk4LaNrjUFeHc&sid=800499c16546a931&fp=chrome#🇲🇩%20Молдова%20(Кишинёв)
-
-# 🌏 АЗИЯ
-# 🔒 НАСТРОЙКИ СКРЫТЫ - ИСПОЛЬЗУЙТЕ ПО УМОЛЧАНИЮ
-
-## 🇹🇷 Турция
-vless://c7c1ecce-0055-4ec8-b1db-4ebd9861ee33@5.180.45.176:4443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=github.com&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&fp=chrome#🇹🇷%20Турция%20(Измир)
-
-## 🇯🇵 Япония
-vless://a11ab9c5-4155-430b-9efc-7a7122531382@142.91.106.176:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=japan.geodema.network&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇯🇵%20Япония%20(Токио)
-
-## 🇰🇿 Казахстан
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@194.110.55.21:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&fp=chrome#🇰🇿%20Казахстан%20(Алматы)
-
-# 🇷🇺 РОССИЯ
-# 🔒 НАСТРОЙКИ СКРЫТЫ - ИСПОЛЬЗУЙТЕ ПО УМОЛЧАНИЮ
-
-vless://f90cc83a-97ce-446d-8f80-30d3eef3351c@89.221.203.3:2443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#🇷🇺%20Россия%20(Москва)
-vless://a9dcc1e2-cb57-409a-b325-d18d64091e1e@103.113.68.144:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=gb7.strelkavpn.ru&pbk=Tk0Nz_w4u3oTP2EECmN1I62USd8ODnIaBpwOwUdjXBc&sid=d724&fp=chrome#🇷🇺%20Россия%20(Москва%202)
-vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@217.16.19.114:443?type=tcp&security=reality&sni=www.vk.com&pbk=s0qb5ggFZN3X7QXWtgK4o7UgfS9DlpFC6JT6OWVs6X4&sid=a5d90165&fp=chrome#🇷🇺%20Россия%20(Москва%203)
+# 🇲🇩 Молдова
+vless://2cd7f3f9-a5fc-4509-8c1b-3cfd67191cdd@91.229.239.51:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=UcXxe5DhOXmvSidTApgFLPIR6RM9aVGk4LaNrjUFeHc&sid=800499c16546a931&fp=chrome#🇲🇩%20Молдова
